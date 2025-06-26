@@ -1,0 +1,143 @@
+{
+  "color" : "0A84FF",
+  "sounds" : [
+    {
+      "name" : "Bandage",
+      "color" : "FF453A",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Big Shield",
+      "color" : "0A84FF",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Bow LT Shot 2",
+      "color" : "EA3A8D",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Bus Horn",
+      "color" : "4F85F6",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Bus Jump",
+      "color" : "407B98",
+      "image" : "png"
+    },
+    {
+      "name" : "Chest Hum",
+      "color" : "FFD60A",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Coral Chorus",
+      "color" : "BBA8F9",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Default Dance",
+      "color" : "0A84FF",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Deploy Glider",
+      "color" : "996C22",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Elimination",
+      "color" : "5C5C5C",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Floss",
+      "color" : "0A84FF",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Info Alert",
+      "color" : "63CAE9",
+      "image" : "jpeg"
+    },
+    {
+      "name" : "Jump Pad",
+      "color" : "8C33B6",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Medkit",
+      "color" : "FF453A",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Mini Shield",
+      "color" : "0A84FF",
+      "image" : "tiff"
+    },
+    {
+      "name" : "OG Victory Royale",
+      "color" : "FDC700",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Pickaxe Swing",
+      "color" : "999999",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Reboot Van",
+      "color" : "479FD3",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Ride the Pony",
+      "color" : "0A84FF",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Slurp Juice",
+      "color" : "79CD6A",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Storm Approaching",
+      "color" : "702898",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Storm Stopping",
+      "color" : "702898",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Supply Drop Landing",
+      "color" : "30D158",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Take the L",
+      "color" : "0A84FF",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Victory Royale",
+      "color" : "F5C944",
+      "image" : "tiff"
+    },
+    {
+      "name" : "XP Level Up",
+      "color" : "DF229B",
+      "image" : "tiff"
+    },
+    {
+      "name" : "Zipline Mechanical",
+      "color" : "F6CD5B",
+      "image" : "tiff"
+    }
+  ],
+  "name" : "Fortnite",
+  "image" : "tiff",
+  "sorts" : "[{\"isForward\":true,\"sortValue\":\"name\"}]"
+}
